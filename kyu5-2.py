@@ -1,5 +1,5 @@
 '''
-*creator LektorLuigi
+*creator LektorLuigi/KasulVita
 ------------
 04.22.2024
 Codewars Kyu 5
